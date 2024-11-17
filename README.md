@@ -1,1 +1,13 @@
-# capacidade-pagamento
+# **Planilha de Cálculo para Propostas de Crédito**
+
+:-----:|
+`Em 2018, eu iniciei minha experiência como Auxiliar Administrativo em uma Agência da Cooperativa Sicredi Centro Sul, em Itaperuna/RJ. Nesse período eu conheci a atividade de Análise de Crédito.
+Logo na primeira avaliação de proposta de crédito que presenciei junto a Gerente Administrativa da agência, percebi que ela ficou desconcertada ao receber uma recusa do Setor de Análise Técnica da Cooperativa, pois presumia que a proposta tinha tudo para ser aprovada e permitiu que eu ler o Perecer que eles apresentaram para a recusa. Nessa oportunidade eu compreendi o cálculo que eles realizavam para validar a proposta e tomei a iniciativa de projetar uma Planilha em Excel para realizar os mesmos cálculos para conferir. A conclusão a que cheguei foi que eles estavam corretos e que se o mesmo cálculo fosse feito antes de submeter a proposta, poderíamos ter negociado melhor com o Associado e evitado a recusa.
+Desse momento, eu aperfeiçoei a planilha e criei um modelo dela para ser aplicado em todas as propostas de crédito que recebêssemos na agência dali por diante e começamos a diminuir a quantidade de recusas das propostas de crédito. 
+Outro fator que surgiu foi a avaliação de garantias oferecidas nas propostas de crédito. Já nas primeiras recusas relacionas a esse fator eu compreendi o modelo de cálculo executado e inclui mais uma aba à planilha para já realizar essa análise nas propostas antes de submetê-las também.
+Até o início de 2020, quando eu já havia sido promovido à Gerente Administrativo da Agência, a utilização dessas planilhas era restrita ao Setor Administrativo da agência. Mas, percebemos que seria mais ágil estender a utilização delas ao atendimento comercial, tornando-as uma ferramenta para auxiliá-lo nas negociações com os associados, tornando os atendimentos das solicitações mais assertivos – o Setor Administrativo passou a revisar e validar os cálculos executados por eles.
+No segundo semestre de 2020 a utilização dessas planilhas por nossa agência se tornou notório porque derrubou o número de recusas de propostas de crédito da agência pela análise técnica 0 (zero). Isso representava uma satisfação maior junto aos associados, pois, como as propostas de crédito já subiam para a análise alinhadas com as políticas de crédito da cooperativa, suas aprovações eram mais rápidas. Representaram também uma prevenção de custos extras desnecessários, porque cada análise técnica tinha um custo de R$32,00, quando havia uma recusa e a proposta precisava ser submetida novamente tinha um custo a mais de R$32,00 pela reanálise da proposta após os ajustes.`|
+
+***Nesse repositório segue um Arquivo .xlsx com um modelo dessa planilha final.***
+
+**Em novembro de 2020, o Modelo de Planilha de Cálculo de Análise de Crédito foi validado pela área de Ciclo de Crédito da Cooperativa e estendida sua utilização para todas as agências da Cooperativa.**
